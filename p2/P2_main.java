@@ -2,9 +2,9 @@ package p2;
 
 public class P2_main {
     public static void main(String[] args) {
-        int a = 50;
-        int b = 50;
-        int c = 100;
+        int a = 4;
+        int b = 2;
+        int c = 3;
         int d = 0;
 
         int e1 = 0;
